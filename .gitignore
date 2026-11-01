@@ -1,0 +1,24 @@
+
+#dependecies
+node_modules/
+**/node_modules/
+
+#environment variables
+.env
+.env.*
+**/.env
+**/.env.*
+
+#build files
+dist/
+build/
+
+
+ #ide files
+ .vscode/
+ /idea/
+
+
+
+# os files
+.DS_Store
