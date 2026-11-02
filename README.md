@@ -1,6 +1,9 @@
-# AI-Interview
-
 # 🤖 AI Interview Platform
+## 🌐 Live Demo
+
+Check out the deployed application:
+
+[AI Interview Platform](https://ai-interview-five-rose.vercel.app)
 
 An AI-powered interview preparation platform that helps candidates practice technical interviews, improve their answering skills, and evaluate their performance through AI-generated feedback.
 
